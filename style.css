@@ -1,0 +1,22 @@
+body{
+    background-color:salmon;
+}
+.notice{
+    color:white;
+}
+.cookieImg{
+    display:inline-block;
+    margin: 0 auto;
+    width: 500px;
+}
+.knifeImg{
+    width: 120px;
+    cursor: pointer;
+}
+.replayImg{
+    width: 120px;
+    cursor: pointer;
+}
+.cookie_thumbnail{
+    display:none;
+}
